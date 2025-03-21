@@ -11,7 +11,8 @@
             "type": "Feature",
             "properties": {
                 "category": "patisserie",
-                "hours": "Classes Every Friday:\\n4",
+                "hours": "Classes Every Friday:",
+                "miniheroes": "4:00 4-30pm",
                 "description": "Modern twists on classic pastries. We're part of a larger chain of patisseries and cafes.",
                 "name": "Josie's Patisserie Mayfair",
                 "phone": "+44 20 1234 5678",
