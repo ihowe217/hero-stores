@@ -23,7 +23,489 @@
                 "instructorimage": "https://storage.googleapis.com/msgsndr/wRB5raB6zwoKwzqdotWO/media/67dd5e39d8aa9e3076d9b4af.jpeg",
                 "bookinglink": "https://bookings.heromartialartsschools.com/bognor-regis-trial-booking"
             }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-0.5068095956729339,
+                    51.11466186125743
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "storeid": "02",
+                "name": "Cranleigh",
+                "address": "Cranleigh Rugby Footbal Club, Wildwood Lane, Cranleigh, Surrey, GU6 8JR",
+                "category": "Martial Arts",
+                "day": "Classes Every Monday:",
+                "miniheroes": "4:15 - 4:45pm",
+                "juniors": "5:00 - 5:45pm",
+                "family": "6:45 - 7:45pm",
+                "phone": "07700 144502",
+                "email": "office@heromartialartsschools.com",
+                "instructorimage": "https://storage.googleapis.com/msgsndr/wRB5raB6zwoKwzqdotWO/media/67dd5e39d8aa9e3076d9b4af.jpeg",
+                "bookinglink": "https://bookings.heromartialartsschools.com/cranleigh-trial-booking"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-0.15443888222740135,
+                    51.11912708363125
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "storeid": "03",
+                "name": "Crawley",
+                "address": "Pound Hill Infant Academy, Crawley Lane, Pound Hill, Crawley, RH10 7EB",
+                "category": "Martial Arts",
+                "day": "Classes Every Tuesday:",
+                "miniheroes": "4:30 - 5:00pm",
+                "juniors": "5:15 - 6:00pm",
+                "family": "7:00 - 8:00pm",
+                "phone": "07700 142376",
+                "email": "office@heromartialartsschools.com",
+                "instructorimage": "https://storage.googleapis.com/msgsndr/wRB5raB6zwoKwzqdotWO/media/67dd5e39d8aa9e3076d9b4af.jpeg",
+                "bookinglink": "https://bookings.heromartialartsschools.com/crawley-trial-booking"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-0.7667862253849328,
+                    51.30361742259429
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "storeid": "04",
+                "name": "Farnborough",
+                "address": "Samuel Cody Sports College, Chaucer Road, Farnborough, GU14 8SN",
+                "category": "Martial Arts",
+                "day": "Classes Every Wednesday:",
+                "miniheroes": "4:15 - 4:45pm",
+                "juniors": "5:00 - 5:45pm",
+                "family": "6:40 - 7:40pm",
+                "phone": "07480 776250",
+                "email": "herogrant@heromartialartsschools.com",
+                "instructorimage": "https://storage.googleapis.com/msgsndr/wRB5raB6zwoKwzqdotWO/media/67dd5e3992fae354cd6703f4.jpeg",
+                "bookinglink": "https://bookings.heromartialartsschools.com/farnborough-trial-booking"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-0.7667862253849328,
+                    51.30361742259429
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "storeid": "05",
+                "name": "Godalming",
+                "address": "Farncombe Infant Schools, Grays Road, Godalming, Surrey, GU7 3LT",
+                "category": "Martial Arts",
+                "day": "Classes Every Tuesday:",
+                "miniheroes": "4:15 - 4:45pm",
+                "juniors": "5:00 - 5:45pm",
+                "family": "6:45 - 7:45pm",
+                "phone": "07700 146302",
+                "email": "herogrant@heromartialartsschools.com",
+                "instructorimage": "https://storage.googleapis.com/msgsndr/wRB5raB6zwoKwzqdotWO/media/67dd5e3992fae354cd6703f4.jpeg",
+                "bookinglink": "https://bookings.heromartialartsschools.com/godalming-trial-booking"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-0.5560747757216226,
+                    51.24717091918313
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "storeid": "06",
+                "name": "Guildford",
+                "address": "Guildfordians Rugby Football Club, The Pavillion, London Road, Guildford, GU1 1TU",
+                "category": "Martial Arts",
+                "day": "Classes Every Thursday:",
+                "miniheroes": "4:00 - 4:30pm",
+                "juniors": "4:45 - 5:30pm",
+                "family": "7:20 - 8:20pm",
+                "phone": "07700 142515",
+                "email": "herogrant@heromartialartsschools.com",
+                "instructorimage": "https://storage.googleapis.com/msgsndr/wRB5raB6zwoKwzqdotWO/media/67dd5e3992fae354cd6703f4.jpeg",
+                "bookinglink": "https://bookings.heromartialartsschools.com/guildford-trial-booking"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-0.25877614921739156,
+                    51.33116622927593
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "storeid": "07",
+                "name": "Epsom",
+                "address": "St Martin's Parish Church, Church Street, Epsom, KT17 4PX",
+                "category": "Martial Arts",
+                "day": "Classes Every Wednesday:",
+                "miniheroes": "4:45 - 5:15pm",
+                "juniors": "5:45 - 6:45pm",
+                "family": "5:45 - 6:45pm",
+                "phone": "07700146563",
+                "email": "herosoares@heromartialartsschools.com",
+                "instructorimage": "https://storage.googleapis.com/msgsndr/wRB5raB6zwoKwzqdotWO/media/67dd5e390a7728e68a772e32.jpeg",
+                "bookinglink": "https://bookings.heromartialartsschools.com/epsom-trial-booking"
+            }
+        },        
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-0.6383854197318416,
+                    51.32954286619067
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "storeid": "08",
+                "name": "Woking",
+                "address": "Bisley Village Hall, School Close, Bisley, Woking GU24 9EG",
+                "category": "Martial Arts",
+                "day": "Classes Every Thursday:",
+                "miniheroes": "4:30 - 5:00pm",
+                "juniors": "5:30 - 6:30pm",
+                "family": "5:30 - 6:30pm",
+                "phone": "07700 173095",
+                "email": "herocaldwell@heromartialartsschools.com",
+                "instructorimage": "https://storage.googleapis.com/msgsndr/wRB5raB6zwoKwzqdotWO/media/67dd5e3992fae33a106703f5.jpeg",
+                "bookinglink": "https://bookings.heromartialartsschools.com/woking-trial-booking"
+            }
+        },        
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-0.7680697206514958,
+                    51.250577210031956
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "storeid": "09",
+                "name": "Aldershot",
+                "address": "Princes Hall Theatre, Princes Way, Aldershot, Hampshire, GU11 1NX",
+                "category": "Martial Arts",
+                "day": "Classes Every Tuesday:",
+                "miniheroes": "4:30 - 5:00pm",
+                "juniors": "5:30 - 6:30pm",
+                "family": "5:30 - 6:30pm",
+                "phone": "07401 189680",
+                "email": "herocaldwell@heromartialartsschools.com",
+                "instructorimage": "https://storage.googleapis.com/msgsndr/wRB5raB6zwoKwzqdotWO/media/67dd5e3992fae33a106703f5.jpeg",
+                "bookinglink": "https://bookings.heromartialartsschools.com/aldershot-trial-booking"
+            }
+        },        
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-0.4004827001829534,
+                    50.81464361519689
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "storeid": "10",
+                "name": "Worthing",
+                "address": "St John the Divine Hall, Elm Grove, Worthing, West Sussex, BN11 5NF",
+                "category": "Martial Arts",
+                "day": "Classes Every Wednesday:",
+                "miniheroes": "4:30 - 5:00pm",
+                "juniors": "5:30 - 6:30pm",
+                "family": "5:30 - 6:30pm",
+                "phone": "07700 146184",
+                "email": "herowatson@heromartialartsschools.com",
+                "instructorimage": "https://storage.googleapis.com/msgsndr/wRB5raB6zwoKwzqdotWO/media/67dd5e39b554060cd04e24d8.jpeg",
+                "bookinglink": "https://bookings.heromartialartsschools.com/worthing-trial-booking"
+            }
+        },        
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-1.5526263291586169,
+                    54.52993315631776
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "storeid": "11",
+                "name": "Darlington (Northgate)",
+                "address": "Northgate United Reformed Church, 150-154 Northgate Darlington, County Durham, DL1 1QU",
+                "category": "Martial Arts",
+                "day": "Classes Every Thursday:",
+                "miniheroes": "5:00 - 5:30pm",
+                "juniors": "5:45 - 6:45pm",
+                "family": "5:45 - 6:45pm",
+                "phone": "07723 608068",
+                "email": "heropark@heromartialartsschools.com",
+                "instructorimage": "https://storage.googleapis.com/msgsndr/wRB5raB6zwoKwzqdotWO/media/67754c00119936a7f5c70a8d.png",
+                "bookinglink": "https://bookings.heromartialartsschools.com/darlington-northgate-trial-booking"
+            }
+        },        
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-1.581188563323581,
+                    54.53374706527435
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "storeid": "12",
+                "name": "Darlington (Cockertion)",
+                "address": "Cockerton Methodist Church, Cockerton Green, Darlington, County Durham, DL3 9EG",
+                "category": "Martial Arts",
+                "day": "Classes Every Tuesday:",
+                "miniheroes": "5:00 - 5:30pm",
+                "juniors": "5:45 - 6:45pm",
+                "family": "5:45 - 6:45pm",
+                "phone": "07723 608068",
+                "email": "heropark@heromartialartsschools.com",
+                "instructorimage": "https://storage.googleapis.com/msgsndr/wRB5raB6zwoKwzqdotWO/media/67754c00119936a7f5c70a8d.png",
+                "bookinglink": "https://bookings.heromartialartsschools.com/darlington-cockerton-trial-booking"
+            }
+        },        
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-1.2020224754769773,
+                    54.5580062855733
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "storeid": "13",
+                "name": "Middlesbrough",
+                "address": "Church of Ascension, Penrith Road, Middlesbrough, TS3 7JR",
+                "category": "Martial Arts",
+                "day": "Classes Every Monday:",
+                "miniheroes": "4:45 - 5:15pm",
+                "juniors": "5:30 - 6:30pm",
+                "family": "5:30 - 6:30pm",
+                "phone": "07700 146364",
+                "email": "heropark@heromartialartsschools.com",
+                "instructorimage": "https://storage.googleapis.com/msgsndr/wRB5raB6zwoKwzqdotWO/media/67754c00119936a7f5c70a8d.png",
+                "bookinglink": "https://bookings.heromartialartsschools.com/middlesbrough-trial-booking"
+            }
+        },        
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-1.6257991926066513,
+                    54.95225194971043
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "storeid": "14",
+                "name": "Gateshead",
+                "address": "Victoria Road Scout Centre, Victoria Road, Gateshead, NE8 2SZ",
+                "category": "Martial Arts",
+                "day": "Classes Every Friday:",
+                "miniheroes": "4:15 - 4:45pm",
+                "juniors": "5:15 - 6:15pm",
+                "family": "5:15 - 6:15pm",
+                "phone": "07458 153022",
+                "email": "heropark@heromartialartsschools.com",
+                "instructorimage": "https://storage.googleapis.com/msgsndr/wRB5raB6zwoKwzqdotWO/media/67754c00119936a7f5c70a8d.png",
+                "bookinglink": "https://bookings.heromartialartsschools.com/gateshead-trial-booking"
+            }
+        },        
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-1.3182819217304649,
+                    54.58256391778294
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "storeid": "15",
+                "name": "Stockton",
+                "address": "Norton Grange Community Resource Centre, 64 Somerset Road, Norton, Stockton-on-Tees, TS20 2ND",
+                "category": "Martial Arts",
+                "day": "Classes Every Saturday:",
+                "miniheroes": "2:00 - 2:30pm",
+                "juniors": "3:00 - 4:00pm",
+                "family": "3:00 - 4:00pm",
+                "phone": "07426 743402",
+                "email": "heropark@heromartialartsschools.com",
+                "instructorimage": "https://storage.googleapis.com/msgsndr/wRB5raB6zwoKwzqdotWO/media/67754c00119936a7f5c70a8d.png",
+                "bookinglink": "https://bookings.heromartialartsschools.com/stockton-trial-booking"
+            }
+        },        
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-0.14261780275743552,
+                    51.54328001661017
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "storeid": "16",
+                "name": "Camden Town",
+                "address": "23 Castlehaven Road, Camden Town, London, NW1 8RU",
+                "category": "Martial Arts",
+                "day": "Classes Every Tuesday:",
+                "miniheroes": "5:00 - 5:30pm",
+                "juniors": "6:00 - 6:45pm",
+                "family": "6:00 - 6:45pm",
+                "phone": "07403 929945",
+                "email": "herohall@heromartialartsschools.com",
+                "instructorimage": "https://storage.googleapis.com/msgsndr/wRB5raB6zwoKwzqdotWO/media/67754c00119936a7f5c70a8d.png",
+                "bookinglink": "https://bookings.heromartialartsschools.com/camden-town-trial-booking"
+            }
+        },        
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-1.0702009025287462,
+                    50.829896499138
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "storeid": "17",
+                "name": "Portsmouth",
+                "address": "Trafalgar School, Trafalgar Road, Hilsea, Portsmouth,  PO2 9RJ",
+                "category": "Martial Arts",
+                "day": "Classes Every Monday:",
+                "miniheroes": "5:00 - 5:45pm",
+                "juniors": "6:00 - 7:00pm",
+                "family": "6:00 - 7:00pm",
+                "phone": "07360 496805",
+                "email": "herohart@heromartialartsschools.com",
+                "instructorimage": "https://storage.googleapis.com/msgsndr/wRB5raB6zwoKwzqdotWO/media/67754c00119936a7f5c70a8d.png",
+                "bookinglink": "https://bookings.heromartialartsschools.com/portsmouth-trial-booking"
+            }
+        },        
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-1.1572761999474372,
+                    50.81005859067264
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "storeid": "18",
+                "name": "Gosport",
+                "address": "Brune Park School, Military Road, Gosport, PO12 3BU",
+                "category": "Martial Arts",
+                "day": "Classes Every Tuesday:",
+                "miniheroes": "5:00 - 5:45pm",
+                "juniors": "6:00 - 7:00pm",
+                "family": "6:00 - 7:00pm",
+                "phone": "07727 988540",
+                "email": "herohart@heromartialartsschools.com",
+                "instructorimage": "https://storage.googleapis.com/msgsndr/wRB5raB6zwoKwzqdotWO/media/67754c00119936a7f5c70a8d.png",
+                "bookinglink": "https://bookings.heromartialartsschools.com/gosport-trial-booking"
+            }
+        },        
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-1.466618352735568,
+                    50.922637191993374
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "storeid": "19",
+                "name": "Southampton",
+                "address": "Redbridge Community School, Cuckmere Lane, Southampton SO16 9RJ",
+                "category": "Martial Arts",
+                "day": "Classes Every Thursday:",
+                "miniheroes": "5:00 - 5:45pm",
+                "juniors": "6:00 - 7:00pm",
+                "family": "6:00 - 7:00pm",
+                "phone": "07449 837297",
+                "email": "herohart@heromartialartsschools.com",
+                "instructorimage": "https://storage.googleapis.com/msgsndr/wRB5raB6zwoKwzqdotWO/media/67754c00119936a7f5c70a8d.png",
+                "bookinglink": "https://bookings.heromartialartsschools.com/southampton-trial-booking"
+            }
+        },        
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-1.076740577731836,
+                    50.79505823725363
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "storeid": "20",
+                "name": "Southsea",
+                "address": "Priory School, Fawcett Road, Southsea, PO4 0DL",
+                "category": "Martial Arts",
+                "day": "Classes Every Friday:",
+                "miniheroes": "4:45 - 5:30pm",
+                "juniors": "5:45 - 6:45pm",
+                "family": "5:45 - 6:45pm",
+                "phone": "07480 781508",
+                "email": "herohart@heromartialartsschools.com",
+                "instructorimage": "https://storage.googleapis.com/msgsndr/wRB5raB6zwoKwzqdotWO/media/67754c00119936a7f5c70a8d.png",
+                "bookinglink": "https://bookings.heromartialartsschools.com/southsea-trial-booking"
+            }
+        },        
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-0.6885758868630012,
+                    50.794338262921315
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "storeid": "21",
+                "name": "Bognor Regis - Kickboxing",
+                "address": "Bognor Regis Youth & Community Centre, Westloats Lane, Bognor Regis, PO21 5JZ",
+                "category": "Kickboxing",
+                "day": "Classes Every Monday:",
+                "miniheroes": "5:00 - 5:30pm",
+                "juniors": "6:00 - 6:00pm",
+                "family": "6:00 - 7:00pm",
+                "phone": "07411 549767",
+                "email": "herohart@heromartialartsschools.com",
+                "instructorimage": "https://storage.googleapis.com/msgsndr/wRB5raB6zwoKwzqdotWO/media/67754c00119936a7f5c70a8d.png",
+                "bookinglink": "https://bookings.heromartialartsschools.com/kickboxing-bognor-regis-trial-booking"
+            }
+        },        
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-0.7587939908059167,
+                    51.112848671713316
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "storeid": "22",
+                "name": "Hindhead",
+                "address": "Grayshott CE Primary School, School Road, Grayshott, Hindhead, Surrey, GU26 6LR",
+                "category": "Martial Arts",
+                "day": "Classes Every Wednesday:",
+                "miniheroes": "4:45 - 5:15pm",
+                "juniors": "5:30 - 6:15pm",
+                "family": "7:15 - 8:15pm",
+                "phone": "07700 143093",
+                "email": "herorudenko@heromartialartsschools.com",
+                "instructorimage": "https://storage.googleapis.com/msgsndr/wRB5raB6zwoKwzqdotWO/media/67754c00119936a7f5c70a8d.png",
+                "bookinglink": "https://bookings.heromartialartsschools.com/hindhead-trial-booking"
+            }
         }
-        
     ]
 }
