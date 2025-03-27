@@ -4,8 +4,8 @@
         {
             "geometry": {
                 "type": "Point",
-                "coordinates": [-0.1428115,
-                    51.5125168
+                "coordinates": [-0.6447020929040572,
+                    50.80039828260386
                 ]
             },
             "type": "Feature",
@@ -24,5 +24,6 @@
                 "bookinglink": "https://bookings.heromartialartsschools.com/bognor-regis-trial-booking"
             }
         }
+        
     ]
 }
