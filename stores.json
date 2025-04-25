@@ -510,6 +510,28 @@
                 "instructorimage": "https://storage.googleapis.com/msgsndr/wRB5raB6zwoKwzqdotWO/media/67754c00119936a7f5c70a8d.png",
                 "bookinglink": "https://bookings.heromartialartsschools.com/hindhead-trial-booking"
             }
+        },        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-0.7587939908059167,
+                    51.112848671713316
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "storeid": "23",
+                "name": "Whiteley",
+                "address": "Whiteley Community Centre, Gull Coppice, Whiteley, Fareham PO15 7LA",
+                "category": "Martial Arts",
+                "day": "Classes Every Wednesday:",
+                "miniheroes": "4:00 - 4:45pm",
+                "juniors": "5:00 - 6:00pm",
+                "family": "5:00 - 6:00pm",
+                "phone": "07479 277983",
+                "email": "herohart@heromartialartsschools.com",
+                "instructorimage": "https://storage.googleapis.com/msgsndr/wRB5raB6zwoKwzqdotWO/media/67754c00119936a7f5c70a8d.png",
+                "bookinglink": "https://bookings.heromartialartsschools.com/whiteley-trial-booking"
+            }
         }
     ]
 }
