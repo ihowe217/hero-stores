@@ -391,7 +391,8 @@
                 "instructorimage": "https://storage.googleapis.com/msgsndr/wRB5raB6zwoKwzqdotWO/media/67754c00119936a7f5c70a8d.png",
                 "bookinglink": "https://bookings.heromartialartsschools.com/hindhead-trial-booking"
             }
-        },        {
+        },        
+        {
             "geometry": {
                 "type": "Point",
                 "coordinates": [-1.258003937660321,

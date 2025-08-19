@@ -1,0 +1,74 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-1.0702009025287462,
+                    50.829896499138
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "storeid": "1",
+                "name": "Portsmouth",
+                "address": "Trafalgar School, Trafalgar Road, Hilsea, Portsmouth,  PO2 9RJ",
+                "category": "Martial Arts",
+                "day": "Classes Every Monday:",
+                "miniheroes": "5:00 - 5:45pm",
+                "juniors": "6:00 - 7:00pm",
+                "family": "6:00 - 7:00pm",
+                "phone": "07360 496805",
+                "email": "herohart@heromartialartsschools.com",
+                "instructorimage": "https://storage.googleapis.com/msgsndr/wRB5raB6zwoKwzqdotWO/media/67754c00119936a7f5c70a8d.png",
+                "bookinglink": "https://bookings.heromartialartsschools.com/portsmouth-trial-booking"
+            }
+        },         
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-1.076740577731836,
+                    50.79505823725363
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "storeid": "2",
+                "name": "Southsea",
+                "address": "Priory School, Fawcett Road, Southsea, PO4 0DL",
+                "category": "Martial Arts",
+                "day": "Classes Every Friday:",
+                "miniheroes": "4:45 - 5:30pm",
+                "juniors": "5:45 - 6:45pm",
+                "family": "5:45 - 6:45pm",
+                "phone": "07480 781508",
+                "email": "herohart@heromartialartsschools.com",
+                "instructorimage": "https://storage.googleapis.com/msgsndr/wRB5raB6zwoKwzqdotWO/media/67754c00119936a7f5c70a8d.png",
+                "bookinglink": "https://bookings.heromartialartsschools.com/southsea-trial-booking"
+            }
+        },        
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-0.6885758868630012,
+                    50.794338262921315
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "storeid": "3",
+                "name": "Bognor Regis",
+                "address": "Bognor Regis Youth & Community Centre, Westloats Lane, Bognor Regis, PO21 5JZ",
+                "category": "Kickboxing",
+                "day": "Classes Every Monday:",
+                "miniheroes": "5:00 - 5:30pm",
+                "juniors": "6:00 - 6:00pm",
+                "family": "6:00 - 7:00pm",
+                "phone": "07411 549767",
+                "email": "herohart@heromartialartsschools.com",
+                "instructorimage": "https://storage.googleapis.com/msgsndr/wRB5raB6zwoKwzqdotWO/media/67754c00119936a7f5c70a8d.png",
+                "bookinglink": "https://bookings.heromartialartsschools.com/kickboxing-bognor-regis-trial-booking"
+            }
+        }
+    ]
+}
