@@ -414,6 +414,15 @@
                 "instructorimage": "https://storage.googleapis.com/msgsndr/wRB5raB6zwoKwzqdotWO/media/67754c00119936a7f5c70a8d.png",
                 "bookinglink": "https://bookings.heromartialartsschools.com/whiteley-trial-booking"
             }
+
+        },
+		{
+		    "geometry": {
+                "type": "Point",
+                "coordinates": [-0.7758804212145791,
+                    50.836949695742284
+                ]
+            },
 			"type": "Feature",
             "properties": {
                 "storeid": "24",
@@ -429,6 +438,6 @@
                 "instructorimage": "https://storage.googleapis.com/msgsndr/wRB5raB6zwoKwzqdotWO/media/67754c00119936a7f5c70a8d.png",
                 "bookinglink": "https://bookings.heromartialartsschools.com/chichester-trial"
             }
-        }
+		}
     ]
 }
