@@ -414,6 +414,21 @@
                 "instructorimage": "https://storage.googleapis.com/msgsndr/wRB5raB6zwoKwzqdotWO/media/67754c00119936a7f5c70a8d.png",
                 "bookinglink": "https://bookings.heromartialartsschools.com/whiteley-trial-booking"
             }
+			"type": "Feature",
+            "properties": {
+                "storeid": "24",
+                "name": "Chichester",
+                "address": "Chichester Boys Club, 34A Little London, Chichester PO19 1PL",
+                "category": "Martial Arts",
+                "day": "Classes Every Thursday:",
+                "miniheroes": "4:30 - 5:00pm",
+                "juniors": "5:30 - 6:30pm",
+                "family": "5:30 - 6:30pm",
+                "phone": "07307 245778",
+                "email": "herovogt@heromartialartsschools.com",
+                "instructorimage": "https://storage.googleapis.com/msgsndr/wRB5raB6zwoKwzqdotWO/media/67754c00119936a7f5c70a8d.png",
+                "bookinglink": "https://bookings.heromartialartsschools.com/chichester-trial"
+            }
         }
     ]
 }
