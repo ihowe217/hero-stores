@@ -299,30 +299,7 @@
                 "instructorimage": "https://storage.googleapis.com/msgsndr/wRB5raB6zwoKwzqdotWO/media/67754c00119936a7f5c70a8d.png",
                 "bookinglink": "https://bookings.heromartialartsschools.com/gosport-trial"
             }
-        },        
-        {
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-1.466618352735568,
-                    50.922637191993374
-                ]
-            },
-            "type": "Feature",
-            "properties": {
-                "storeid": "19",
-                "name": "Southampton",
-                "address": "Redbridge Community School, Cuckmere Lane, Southampton SO16 9RJ",
-                "category": "Martial Arts",
-                "day": "Classes Every Thursday:",
-                "miniheroes": "5:00 - 5:45pm",
-                "juniors": "6:00 - 7:00pm",
-                "family": "6:00 - 7:00pm",
-                "phone": "07449 837297",
-                "email": "herohart@heromartialartsschools.com",
-                "instructorimage": "https://storage.googleapis.com/msgsndr/wRB5raB6zwoKwzqdotWO/media/67754c00119936a7f5c70a8d.png",
-                "bookinglink": "https://bookings.heromartialartsschools.com/southampton-trial"
-            }
-        },        
+        },  
         {
             "geometry": {
                 "type": "Point",
