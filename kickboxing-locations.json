@@ -69,6 +69,29 @@
                 "instructorimage": "https://storage.googleapis.com/msgsndr/wRB5raB6zwoKwzqdotWO/media/67754c00119936a7f5c70a8d.png",
                 "bookinglink": "https://bookings.heromartialartsschools.com/kickboxing-bognor-regis-trial-booking"
             }
+        },        
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-1.1574612174244225,
+                    50.81028350100507
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "storeid": "4",
+                "name": "Gosport",
+                "address": "Brune Park School, Military Road, Gosport, PO12 3BU",
+                "category": "Kickboxing",
+                "day": "Classes Every Monday:",
+                "miniheroes": "5:00 - 5:30pm",
+                "juniors": "6:00 - 6:00pm",
+                "family": "6:00 - 7:00pm",
+                "phone": "07411 549767",
+                "email": "herohart@heromartialartsschools.com",
+                "instructorimage": "https://storage.googleapis.com/msgsndr/wRB5raB6zwoKwzqdotWO/media/67754c00119936a7f5c70a8d.png",
+                "bookinglink": "https://bookings.heromartialartsschools.com/gosport-trial"
+            }
         }
     ]
 }
