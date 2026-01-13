@@ -1,29 +1,6 @@
 {
     "type": "FeatureCollection",
-    "features": [
-        {
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-1.0702009025287462,
-                    50.829896499138
-                ]
-            },
-            "type": "Feature",
-            "properties": {
-                "storeid": "1",
-                "name": "Portsmouth",
-                "address": "Trafalgar School, Trafalgar Road, Hilsea, Portsmouth,  PO2 9RJ",
-                "category": "Martial Arts",
-                "day": "Classes Every Monday:",
-                "miniheroes": "5:00 - 5:45pm",
-                "juniors": "6:00 - 7:00pm",
-                "family": "6:00 - 7:00pm",
-                "phone": "07360 496805",
-                "email": "herohart@heromartialartsschools.com",
-                "instructorimage": "https://storage.googleapis.com/msgsndr/wRB5raB6zwoKwzqdotWO/media/67754c00119936a7f5c70a8d.png",
-                "bookinglink": "https://bookings.heromartialartsschools.com/portsmouth-trial-booking"
-            }
-        },         
+    "features": [      
         {
             "geometry": {
                 "type": "Point",
@@ -33,7 +10,7 @@
             },
             "type": "Feature",
             "properties": {
-                "storeid": "2",
+                "storeid": "1",
                 "name": "Southsea",
                 "address": "Priory School, Fawcett Road, Southsea, PO4 0DL",
                 "category": "Martial Arts",
@@ -56,7 +33,7 @@
             },
             "type": "Feature",
             "properties": {
-                "storeid": "3",
+                "storeid": "2",
                 "name": "Bognor Regis",
                 "address": "Bognor Regis Youth & Community Centre, Westloats Lane, Bognor Regis, PO21 5JZ",
                 "category": "Kickboxing",
@@ -79,7 +56,7 @@
             },
             "type": "Feature",
             "properties": {
-                "storeid": "4",
+                "storeid": "3",
                 "name": "Gosport",
                 "address": "Brune Park School, Military Road, Gosport, PO12 3BU",
                 "category": "Kickboxing",
