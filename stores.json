@@ -415,6 +415,29 @@
                 "instructorimage": "https://storage.googleapis.com/msgsndr/wRB5raB6zwoKwzqdotWO/media/67754c00119936a7f5c70a8d.png",
                 "bookinglink": "https://bookings.heromartialartsschools.com/chichester-trial"
             }
+		},
+		{
+		    "geometry": {
+                "type": "Point",
+                "coordinates": [-1.0474427108818483,
+                    50.84654163137614
+                ]
+            },
+			"type": "Feature",
+            "properties": {
+                "storeid": "25",
+                "name": "Drayton",
+                "address": "Drayton Centre, 238 Havant Rd, Drayton, Portsmouth PO6 1PA",
+                "category": "Martial Arts",
+                "day": "Classes Every Thursday:",
+                "miniheroes": "5:00 - 5:45pm",
+                "juniors": "6:00 - 7:00pm",
+                "family": "6:00 - 7:00pm",
+                "phone": "07863 747029",
+                "email": "herohollinshead@heromartialartsschools.com",
+                "instructorimage": "https://storage.googleapis.com/msgsndr/wRB5raB6zwoKwzqdotWO/media/67754c00119936a7f5c70a8d.png",
+                "bookinglink": "https://bookings.heromartialartsschools.com/drayton-trial"
+            }
 		}
     ]
 }
