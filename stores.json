@@ -142,22 +142,22 @@
         {
             "geometry": {
                 "type": "Point",
-                "coordinates": [-0.25877614921739156,
-                    51.33116622927593
+                "coordinates": [-0.2241224141643161,
+                    51.325553478201606
                 ]
             },
             "type": "Feature",
             "properties": {
                 "storeid": "07",
                 "name": "Epsom",
-                "address": "St Martin's Parish Church, Church Street, Epsom, KT17 4PX",
+                "address": "St Paul's Church, Warren Road, Banstead, SM7, 1LG",
                 "category": "Martial Arts",
                 "day": "Classes Every Wednesday:",
-                "miniheroes": "4:45 - 5:15pm",
+                "miniheroes": "4:45 - 5:30pm",
                 "juniors": "5:45 - 6:45pm",
                 "family": "5:45 - 6:45pm",
                 "phone": "07700146563",
-                "email": "herosoares@heromartialartsschools.com",
+                "email": "herobattistel@heromartialartsschools.com",
                 "instructorimage": "https://storage.googleapis.com/msgsndr/wRB5raB6zwoKwzqdotWO/media/67dd5e390a7728e68a772e32.jpeg",
                 "bookinglink": "https://bookings.heromartialartsschools.com/epsom-booking"
             }
