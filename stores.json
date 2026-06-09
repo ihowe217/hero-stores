@@ -419,15 +419,15 @@
 		{
 		    "geometry": {
                 "type": "Point",
-                "coordinates": [-1.0474427108818483,
-                    50.84654163137614
+                "coordinates": [-1.0682334252941459,
+                    50.844207118992834
                 ]
             },
 			"type": "Feature",
             "properties": {
                 "storeid": "25",
-                "name": "Drayton",
-                "address": "Drayton Centre, 238 Havant Rd, Drayton, Portsmouth PO6 1PA",
+                "name": "Cosham",
+                "address": "Cosham Community Centre, 1 Wootton St, Cosham, Portsmouth PO6 3AP",
                 "category": "Martial Arts",
                 "day": "Classes Every Thursday:",
                 "miniheroes": "5:00 - 5:45pm",

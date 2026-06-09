@@ -69,6 +69,29 @@
                 "instructorimage": "https://storage.googleapis.com/msgsndr/wRB5raB6zwoKwzqdotWO/media/67754c00119936a7f5c70a8d.png",
                 "bookinglink": "https://bookings.heromartialartsschools.com/gosport-trial"
             }
+        },        
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-1.0702009025287462,
+                    50.829896499138
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "storeid": "4",
+                "name": "Portsmouth",
+                "address": "Trafalgar School, Trafalgar Road, Hilsea, Portsmouth,  PO2 9RJ",
+                "category": "Martial Arts",
+                "day": "Classes Every Monday:",
+                "miniheroes": "5:00 - 5:45pm",
+                "juniors": "6:00 - 7:00pm",
+                "family": "6:00 - 7:00pm",
+                "phone": "07360 496805",
+                "email": "herohart@heromartialartsschools.com",
+                "instructorimage": "https://storage.googleapis.com/msgsndr/wRB5raB6zwoKwzqdotWO/media/67754c00119936a7f5c70a8d.png",
+                "bookinglink": "https://bookings.heromartialartsschools.com/portsmouth-trial"
+            }
         }
     ]
 }
