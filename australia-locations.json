@@ -1,0 +1,74 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.02595125759558,
+                    -27.243663444290732
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "storeid": "01",
+                "name": "Mango Hill",
+                "address": "The Y Level 1, 22 Halpine Dr, Mango Hill QLD 4509",
+                "category": "Martial Arts",
+                "day": "Classes Every Friday:",
+                "miniheroes": "4:00 - 4:30pm",
+                "juniors": "4:45 - 5:30pm",
+                "family": "6:30 - 7:30pm",
+                "phone": "07401 183774",
+                "email": "office@heromartialartsschools.com",
+                "instructorimage": "https://storage.googleapis.com/msgsndr/wRB5raB6zwoKwzqdotWO/media/67dd5e39d8aa9e3076d9b4af.jpeg",
+                "bookinglink": "https://bookings.heromartialartsschools.com/bognor-regis-trial"
+            }
+        },
+                {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.02595125759558,
+                    -27.243663444290732
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "storeid": "02",
+                "name": "North lakes",
+                "address": "The Y Level 1, 22 Halpine Dr, Mango Hill QLD 4509",
+                "category": "Martial Arts",
+                "day": "Classes Every Friday:",
+                "miniheroes": "4:00 - 4:30pm",
+                "juniors": "4:45 - 5:30pm",
+                "family": "6:30 - 7:30pm",
+                "phone": "07401 183774",
+                "email": "office@heromartialartsschools.com",
+                "instructorimage": "https://storage.googleapis.com/msgsndr/wRB5raB6zwoKwzqdotWO/media/67dd5e39d8aa9e3076d9b4af.jpeg",
+                "bookinglink": "https://bookings.heromartialartsschools.com/bognor-regis-trial"
+            }
+        },        
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.02595125759558,
+                    -27.243663444290732
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "storeid": "01",
+                "name": "Mango Hill",
+                "address": "The Y Level 1, 22 Halpine Dr, Mango Hill QLD 4509",
+                "category": "Martial Arts",
+                "day": "Classes Every Friday:",
+                "miniheroes": "4:00 - 4:30pm",
+                "juniors": "4:45 - 5:30pm",
+                "family": "6:30 - 7:30pm",
+                "phone": "07401 183774",
+                "email": "office@heromartialartsschools.com",
+                "instructorimage": "https://storage.googleapis.com/msgsndr/wRB5raB6zwoKwzqdotWO/media/67dd5e39d8aa9e3076d9b4af.jpeg",
+                "bookinglink": "https://bookings.heromartialartsschools.com/bognor-regis-trial"
+            }
+        }
+    ]
+}
