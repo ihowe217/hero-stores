@@ -12,7 +12,7 @@
             "properties": {
                 "storeid": "01",
                 "name": "Mango Hill",
-                "address": "The Y Level 1, 22 Halpine Dr, Mango Hill QLD 4509",
+                "address": "The Y, 22 Halpine Dr, Mango Hill QLD 4509",
                 "category": "Martial Arts",
                 "day": "Classes Every Friday:",
                 "miniheroes": "4:00 - 4:30pm",
@@ -24,18 +24,18 @@
                 "bookinglink": "https://bookings.heromartialartsschools.com/bognor-regis-trial"
             }
         },
-                {
+        {
             "geometry": {
                 "type": "Point",
-                "coordinates": [153.02595125759558,
-                    -27.243663444290732
+                "coordinates": [153.02904752733716,
+                    -27.218364678932915
                 ]
             },
             "type": "Feature",
             "properties": {
                 "storeid": "02",
                 "name": "North lakes",
-                "address": "The Y Level 1, 22 Halpine Dr, Mango Hill QLD 4509",
+                "address": "Mango Hill Village Community Centre, 2 Kinsellas Road West, Mango Hill QLD 4509",
                 "category": "Martial Arts",
                 "day": "Classes Every Friday:",
                 "miniheroes": "4:00 - 4:30pm",
@@ -50,15 +50,15 @@
         {
             "geometry": {
                 "type": "Point",
-                "coordinates": [153.02595125759558,
-                    -27.243663444290732
+                "coordinates": [152.99220757892385,
+                    -27.311179806185983
                 ]
             },
             "type": "Feature",
             "properties": {
-                "storeid": "01",
-                "name": "Mango Hill",
-                "address": "The Y Level 1, 22 Halpine Dr, Mango Hill QLD 4509",
+                "storeid": "03",
+                "name": "Strathpine",
+                "address": "Strathpine Community Centre, 4/199 Gympie Rd, Strathpine QLD 4500",
                 "category": "Martial Arts",
                 "day": "Classes Every Friday:",
                 "miniheroes": "4:00 - 4:30pm",
