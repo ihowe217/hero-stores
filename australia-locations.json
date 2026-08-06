@@ -21,7 +21,8 @@
                 "phone": "07401 183774",
                 "email": "office@heromartialartsschools.com",
                 "instructorimage": "https://storage.googleapis.com/msgsndr/wRB5raB6zwoKwzqdotWO/media/67dd5e39d8aa9e3076d9b4af.jpeg",
-                "bookinglink": "https://bookings.heromartialartsschools.com/bognor-regis-trial"
+                "minibookinglink": "https://api.leadconnectorhq.com/widget/bookings/mango-hill-mini-heroes",
+                "juniorbookinglink": "https://api.leadconnectorhq.com/widget/bookings/mango-hill-junior-family-heroes"
             }
         },
         {
@@ -44,7 +45,8 @@
                 "phone": "07401 183774",
                 "email": "office@heromartialartsschools.com",
                 "instructorimage": "https://storage.googleapis.com/msgsndr/wRB5raB6zwoKwzqdotWO/media/67dd5e39d8aa9e3076d9b4af.jpeg",
-                "bookinglink": "https://bookings.heromartialartsschools.com/bognor-regis-trial"
+                "minibookinglink": "https://api.leadconnectorhq.com/widget/bookings/north-lakes-mini-heroes",
+                "juniorbookinglink": "https://api.leadconnectorhq.com/widget/bookings/north-lakes-junior-family-heroes"
             }
         },        
         {
@@ -67,7 +69,8 @@
                 "phone": "07401 183774",
                 "email": "office@heromartialartsschools.com",
                 "instructorimage": "https://storage.googleapis.com/msgsndr/wRB5raB6zwoKwzqdotWO/media/67dd5e39d8aa9e3076d9b4af.jpeg",
-                "bookinglink": "https://bookings.heromartialartsschools.com/bognor-regis-trial"
+                "minibookinglink": "https://api.leadconnectorhq.com/widget/bookings/strathpine-mini-heroes",
+                "juniorbookinglink": "https://api.leadconnectorhq.com/widget/bookings/strathpine-junior-family-heroes"
             }
         }
     ]
