@@ -438,6 +438,29 @@
                 "instructorimage": "https://storage.googleapis.com/msgsndr/wRB5raB6zwoKwzqdotWO/media/67754c00119936a7f5c70a8d.png",
                 "bookinglink": "https://bookings.heromartialartsschools.com/cosham-trial"
             }
-		}
+		},
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-0.6565788181857948,
+                    50.79356876259679
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "storeid": "26",
+                "name": "Felpham",
+                "address": "Felpham Community College",
+                "category": "Martial Arts",
+                "day": "Classes Every Friday:",
+                "miniheroes": "4:00 - 4:30pm",
+                "juniors": "4:45 - 5:30pm",
+                "family": "6:30 - 7:30pm",
+                "phone": "07401 183774",
+                "email": "office@heromartialartsschools.com",
+                "instructorimage": "https://storage.googleapis.com/msgsndr/wRB5raB6zwoKwzqdotWO/media/67dd5e39d8aa9e3076d9b4af.jpeg",
+                "bookinglink": "https://bookings.heromartialartsschools.com/bognor-regis-trial"
+            }
+        }
     ]
 }
