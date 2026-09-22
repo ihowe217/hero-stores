@@ -46,42 +46,19 @@
                 "instructorimage": "https://storage.googleapis.com/msgsndr/wRB5raB6zwoKwzqdotWO/media/67754c00119936a7f5c70a8d.png",
                 "bookinglink": "https://bookings.heromartialartsschools.com/kickboxing-bognor-regis-trial-booking"
             }
-        },        
+        },              
         {
             "geometry": {
                 "type": "Point",
-                "coordinates": [-1.1574612174244225,
-                    50.81028350100507
-                ]
-            },
-            "type": "Feature",
-            "properties": {
-                "storeid": "3",
-                "name": "Gosport",
-                "address": "Brune Park School, Military Road, Gosport, PO12 3BU",
-                "category": "Kickboxing",
-                "day": "Classes Every Monday:",
-                "miniheroes": "5:00 - 5:30pm",
-                "juniors": "6:00 - 6:00pm",
-                "family": "6:00 - 7:00pm",
-                "phone": "07411 549767",
-                "email": "herohart@heromartialartsschools.com",
-                "instructorimage": "https://storage.googleapis.com/msgsndr/wRB5raB6zwoKwzqdotWO/media/67754c00119936a7f5c70a8d.png",
-                "bookinglink": "https://bookings.heromartialartsschools.com/gosport-trial"
-            }
-        },        
-        {
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-1.0702009025287462,
-                    50.829896499138
+                "coordinates": [-1.074921551941109,
+                    50.83042547863874
                 ]
             },
             "type": "Feature",
             "properties": {
                 "storeid": "4",
                 "name": "Portsmouth",
-                "address": "Trafalgar School, Trafalgar Road, Hilsea, Portsmouth,  PO2 9RJ",
+                "address": "St Francis Church, Northern Parade, Hilsea, Portsmouth, PO2 9LX",
                 "category": "Martial Arts",
                 "day": "Classes Every Monday:",
                 "miniheroes": "5:00 - 5:45pm",
