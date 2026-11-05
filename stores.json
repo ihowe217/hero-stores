@@ -419,15 +419,15 @@
 		{
 		    "geometry": {
                 "type": "Point",
-                "coordinates": [-1.0682334252941459,
-                    50.844207118992834
+                "coordinates": [-1.0273015268409331,
+                    50.84778418371554
                 ]
             },
 			"type": "Feature",
             "properties": {
                 "storeid": "25",
                 "name": "Cosham",
-                "address": "Cosham Community Centre, 1 Wootton St, Cosham, Portsmouth PO6 3AP",
+                "address": "St Andrews hall, Havant Rd, Farlington, Portsmouth, PO6 1AA",
                 "category": "Martial Arts",
                 "day": "Classes Every Thursday:",
                 "miniheroes": "5:00 - 5:45pm",
