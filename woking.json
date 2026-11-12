@@ -1,0 +1,30 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-0.6379382853542487,
+                    51.32962205892166
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "storeid": "01",
+                "name": "Woking",
+                "address": "Bisley Village Hall, School Cl, Bisley, Woking GU24 9EG",
+                "category": "Martial Arts",
+                "day": "Classes Every Friday:",
+                "miniheroes": "4:00 - 4:30pm",
+                "juniors": "4:45 - 5:30pm",
+                "family": "6:30 - 7:30pm",
+                "phone": "07401 183774",
+                "email": "office@heromartialartsschools.com",
+                "instructorimage": "https://storage.googleapis.com/msgsndr/wRB5raB6zwoKwzqdotWO/media/67dd5e39d8aa9e3076d9b4af.jpeg",
+                "minibookinglink": "https://api.leadconnectorhq.com/widget/bookings/woking-mini-hero",
+                "juniorbookinglink": "https://api.leadconnectorhq.com/widget/bookings/woking-junior",
+                "familybookinglink": "https://api.leadconnectorhq.com/widget/bookings/woking-adult-family"
+            }
+        }
+    ]
+}
