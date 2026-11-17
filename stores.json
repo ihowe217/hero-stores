@@ -257,15 +257,15 @@
         {
             "geometry": {
                 "type": "Point",
-                "coordinates": [-1.0745905066227133,
-                    50.830215245333484
+                "coordinates": [-1.0700764898298696,
+                    50.83002435918214
                 ]
             },
             "type": "Feature",
             "properties": {
                 "storeid": "17",
                 "name": "Portsmouth",
-                "address": "St Francis Church, Northern Parade, Hilsea, Portsmouth PO2 9LX",
+                "address": "Trafalgar School, London Rd, Hilsea, Portsmouth PO2 9RJ",
                 "category": "Martial Arts",
                 "day": "Classes Every Monday:",
                 "miniheroes": "5:00 - 5:45pm",
